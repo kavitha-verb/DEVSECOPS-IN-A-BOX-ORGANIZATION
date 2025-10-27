@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DevSecOps Lab In the Box Board Game Website Maintenance Guide - Internal Use
 
 ## 📦 Project Structure Overview
@@ -58,3 +59,7 @@ Folder: /docs
 # DevSecOps-Organization
 DevSecOps-Organization
 >>>>>>> 0801097a85b0f98047dbfc3262c55e1d912fca52
+=======
+# DevSecOps-individual
+DevSecOps-individual
+>>>>>>> b6cf086387956c0317906c5126586e7809685b3d
