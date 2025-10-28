@@ -86,7 +86,7 @@ const Home = ({onNavigateToOverview}) => {
                         color: '#333',
                     }}>
                         Welcome to DevSecOps Lab In A Box, a hands-on training program designed by Women in Cloud in collaboration with University of Washington and Boeing to help faculty and student build secure, AI-powered, cloud-native applications. With the DevSecOps market expected to surpass $23B by 2030, this program fills critical talent gaps where 40% of students lack real-world experience and 1 in 3 have never heard of DevSecOps.  You'll gain access to real labs, subsidized access to Microsoft certifications, and project-based learning to master Zero Trust, AI safety, and DataOps.  Through this lab, students will develop in-demand skills and confidence to thrive in the modern tech economy.<br/><br/>
-                        <strong>Start now—unlock your roadmap, join the lab, and launch your future in secure innovation.</strong>
+                        Start now—unlock your roadmap, join the lab, and launch your future in secure innovation.
                     </p>
                 </div>
             </div>
